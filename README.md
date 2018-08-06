@@ -1,0 +1,1 @@
+Example application for <https://stackoverflow.com/q/51707799/2700255> question.
